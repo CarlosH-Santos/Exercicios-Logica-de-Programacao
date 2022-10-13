@@ -6,4 +6,4 @@ Exercícios | Curso em Vídeo | Lógica de programação
 
 link: https://www.youtube.com/watch?v=nIHq1MtJaKs&ab_channel=CursoemV%C3%ADdeo 
 
-*Primeiro repositório no github com o objetivo de utilizar a plataforma para salvar os exercicios de lógica de programação, além de aprender através da prtática sobre versionamento de código.
+*Primeiro repositório no github com o objetivo de utilizar a plataforma para salvar os exercicios de lógica de programação, além de aprender através da prática sobre versionamento de código.
