@@ -9,3 +9,5 @@ print(f'Primeiro nome é: {nome[0]}\nÚltimo nome: {nome[-1]}')
 
 
 
+
+
